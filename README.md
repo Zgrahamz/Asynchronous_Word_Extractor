@@ -4,3 +4,5 @@ Once files are submitted, an asynchornous method outputs the top 10 most used wo
 The program filters out punctuation, so only actual words are counted. 
 
 It is a windows form, so it should be opened in visual studio on a windows machine. 
+
+This project includes two sample text files from Project Gutenberg.
